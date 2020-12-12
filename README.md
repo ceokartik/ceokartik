@@ -10,7 +10,7 @@
 
 I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP University 🏛. I am founder of @pvaindia, @theepiccode & @pvaiot.  I am over attracted to cyber security concepts. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
-<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -20,7 +20,7 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
 - 💬 &nbsp; Ask me about anything [here](https://t.me/pvaceo)! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: kartikbathla1234@gmail.com
-<!--- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).-->
+<!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
 
 ### My Absolute Favorites:
 
@@ -51,8 +51,8 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceokartik&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceokartik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
@@ -72,28 +72,28 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/ceokartik/Gitwar"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ceokartik/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ceokartik/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ceokartik/Gitwar?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ceokartik/Gitwar?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ceokartik/Gitwar?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/ceokartik/TradeByte"><b>💸 TradeByte</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ceokartik/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ceokartik/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ceokartik/TradeByte?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ceokartik/TradeByte?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ceokartik/TradeByte?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/ceokartik/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ceokartik/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ceokartik/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ceokartik/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ceokartik/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ceokartik/TheNodeCourse?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
@@ -110,7 +110,6 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
