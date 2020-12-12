@@ -8,11 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ceokartik.ceokartik&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP University 🏛. I am founder of @pvaindia, @theepiccode & @pvaiot.  I am over attracted to cyber security concepts. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 ### Talking about Personal Stuffs:
 
@@ -20,7 +16,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 - 🚀 &nbsp; I’m currently learning Offensive Cyber Security.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ceokartik).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/pvaceo)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+<!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: kartikbathla1234@gmail.com
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).-->
 
