@@ -10,7 +10,7 @@
 
 I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP University 🏛. I am founder of @pvaindia, @theepiccode & @pvaiot.  I am over attracted to cyber security concepts. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
-<img align="center" height="500" width="750" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
