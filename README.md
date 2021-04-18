@@ -28,17 +28,29 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
 - 📰 &nbsp; Reading & writing tech blogs whenever possible
 - 🍕 &nbsp; Hackathons, meetups & tech events
 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>#### CPP <img height="27" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" alt="cpp"> </li>
+	    <li><b>Laptop: </b> IMAC i7 48GB RAM RX5700XT 2021</li>
+  	    <li><b>Browser: </b> Firefox Developer Edition</li>
+	    <li><b>Code Editor:</b> JetBrains & VSCode</li>
+	    <li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>
+	    <br />
+	</ul>	
+</details>
 ### Languages and Tools:
 
 
 
-#### CPP <img height="27" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" alt="cpp">
 #### Python <img height="27" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="python">
 #### Java Script <img height="27" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript">
 #### NodeJs <img height="27" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs">
 #### Flutter <img height="27" src="https://user-images.githubusercontent.com/62009089/115139830-ca31f980-a051-11eb-9727-94010052def5.png" alt="flutter">
 #### Terminal <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
 #### GIT <img height="27" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
+
 
 
 ### Projects and Dev Stuffs:
