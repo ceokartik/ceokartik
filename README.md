@@ -30,6 +30,7 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
 
 ### Languages and Tools:
 
+<code>
 <img height="27" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" alt="cpp">
 <img height="27" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="python">
 <img height="27" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript">
@@ -41,7 +42,7 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
 <img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb">
 <img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git">
 <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
-
+</code>
 
 ### Projects and Dev Stuffs:
 
